@@ -1,5 +1,7 @@
 package Main;
 
-public class Dessin {
+public abstract class Dessin {
+	Image[] images;
+	
 
 }

@@ -1,5 +1,7 @@
 package Main;
 
-public abstract class Polygone {
-
+public class Polygone extends Image {
+	Point[] points;
+	
+	
 }
