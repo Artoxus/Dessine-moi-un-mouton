@@ -1,6 +1,6 @@
 package Main;
 
-public class Cercle {
+public class Cercle extends Image implements TransformationImage {
 	Point c;
 	int rayon;
 }

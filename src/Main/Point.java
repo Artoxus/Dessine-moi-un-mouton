@@ -1,6 +1,6 @@
 package Main;
 
-public class Point {
+public class Point implements TransformationImage {
 	int x;
 	int y;
 }
